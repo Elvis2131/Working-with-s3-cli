@@ -8,11 +8,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to run the script.
 
 * Python: for the data manipulation.
 * Gitbash: For pushing the files your repo.
 * AWS(S3): For hosting the extracted files.
+* An IDE: To run and edit the codes
 
 ### Installing
 
@@ -20,6 +21,7 @@ A step by step series of examples that tell you how to get a development env run
 
 * Install python on your system(macOS, windows or Linux)
 * Using pip and the [requirement file](https://drive.google.com/file/d/14mlEM-5mbhD4oQpF8fLCZXKZaLlTPo-C/view?usp=sharing), use the below command to install the required dependencies.
+* Clone repo.
 
 ```
 pip install -r requirement.txt
