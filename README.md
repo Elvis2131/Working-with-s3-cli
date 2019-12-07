@@ -1,4 +1,4 @@
-# Basic ETL Pipeline
+#  ETL Pipeline
 
 The goal of the project was to create a basic ETL pipeline using. The tasks involved in the project was to extract a data set stored in a csv format and do some filtering after which the extracted data will be stored in parquet and json(gzip) format. Final file format where uploaded to AWS S3 bucket.
 
@@ -19,7 +19,7 @@ What things you need to install the software and how to install them
 A step by step series of examples that tell you how to get a development env running
 
 * Install python on your system(macOS, windows or Linux)
-* Using pip and the requirement file, use the below command to install the required dependencies.
+* Using pip and the [requirement file](https://drive.google.com/file/d/14mlEM-5mbhD4oQpF8fLCZXKZaLlTPo-C/view?usp=sharing), use the below command to install the required dependencies.
 
 ```
 pip install -r requirement.txt
