@@ -1,6 +1,6 @@
 #  ETL Pipeline
 
-The goal of the project was to create a basic ETL pipeline using. The tasks involved in the project was to extract a data set stored in a csv format and do some filtering after which the extracted data will be stored in parquet and json(gzip) format. Final file format where uploaded to AWS S3 bucket.
+The goal of the project was to create a basic ETL pipeline using pandas. The tasks involved in the project was to extract a data set stored in a csv format and do some filtering after which the extracted data will be stored in parquet and json(gzip) format. Final file format where uploaded to AWS S3 bucket.
 
 ## Getting Started
 
